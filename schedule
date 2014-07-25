@@ -1,0 +1,24 @@
+"simple_switch_stp" module is a variation of "simple_switch"
+
+
+
+Study this 
+
+http://networkx.github.io/examples.html
+
+Hi, I have contributed the patch of stp to ryu before.
+
+  http://sourceforge.net/mailarchive/message.php?msg_id=31438818
+
+
+http://networkx.github.io/
+
+Henkel, Michae
+
+https://github.com/CPqD/RouteFlow/wiki/Contribute-to-RouteFlow
+Re: [RouteFlow-discuss] Re: Ryu routeflow
+
+
+https://github.com/karthik82/ryu/blob/master/ryu/topology/switches.py#L100
+
+http://www.swaroopch.com/notes/python/  // Python learngin
